@@ -1,0 +1,8 @@
+# binaries
+/tgtui
+/tgtui-*
+/dist/
+
+# local secrets and session
+.env
+session.json
